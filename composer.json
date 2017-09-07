@@ -1,0 +1,18 @@
+{
+    "name": "woodfish/calendar",
+    "description": "Solar and Lunar Date library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "shaojie",
+            "email": "shaojie519@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Woodfish\\Component\\Date\\": "src/"
+        }
+    }
+}
